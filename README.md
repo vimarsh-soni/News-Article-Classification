@@ -3,7 +3,7 @@ Text Classification | Category Identification | Data-Preprocessing | Multinomial
 # Introduction 
 This project is based on a supervised machine learning text classification model which would be able to predict the category of a given news article from the predefined set of categories. It uses a labelled dataset helping the algorithm to learn the patterns and correlations in the data. Data cleaning is used to ensure no distortions to the model. TF-IDF vectorizer is implemented using uni-grams and bi-grams as features, text formatted dataset is converted to numeric form which is then used to analyze the category of the given news articles. Further, using the Multinomial Naive Bayes, as a machine learning classification model to predict the class of the test data and tuning the hyper-parameter, good amount of accuracy is obtained. 
 # Results 
-![alt text](https://github.com/vimarsh-soni/News-Article-Classification/blob/main/Results/Unigrams_Tech_Business_Sports.PNGhttps://github.com/vimarsh-soni/News-Article-Classification/blob/main/Results/Unigrams_Tech_Business_Sports.PNG)
+![Unigrams_Tech_Business_Sports.PNG](https://github.com/vimarsh-soni/News-Article-Classification/blob/main/Results/Unigrams_Tech_Business_Sports.PNGhttps://github.com/vimarsh-soni/News-Article-Classification/blob/main/Results/Unigrams_Tech_Business_Sports.PNG)
 # References
 [1]  Patra, Anuradha, and Divakar Singh.  ”A survey report on text classifi-cation  with  different  term  weighing  methods  and  comparison  betweenclassification  algorithms.”  International  Journal  of  Computer  Applica-tions 75.7 (2013).
 
