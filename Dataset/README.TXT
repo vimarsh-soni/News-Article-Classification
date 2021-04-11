@@ -1,7 +1,8 @@
 This directory consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.
 Natural Classes: 5 (business, entertainment, politics, sport, tech)
+News articles related to these topics are provided in the sub-directories.
 
-CheckCSV.csv is the file used as an input to in the python code.
+CheckCSV.csv is the file used as input in the python code.
 
 If you make use of the dataset, please consider citing the publication: 
 - D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.
@@ -10,4 +11,3 @@ All rights, including copyright, in the content of the original articles are own
 
 Contact Derek Greene <derek.greene@ucd.ie> for further information.
 http://mlg.ucd.ie/datasets/bbc.html
-
