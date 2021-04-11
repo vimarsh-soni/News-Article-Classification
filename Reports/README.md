@@ -1,1 +1,1 @@
-This directory consists of the mid-semester and end-semester project reports, as mentioned in the naming convention.
+This directory consists of the Mid-semester and End-semester project reports, as mentioned in the naming convention.
